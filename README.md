@@ -4,7 +4,7 @@
 3. Scipy (Scipy)
 4. Statistics (Statistics)
 5. 카이제곱 검정 (Chisquare)
-6. 모수검정과 비모수검정 (Module)
+6. 모수검정과 비모수검정 (ParametricTest&NonparametricTest)
 7. 양측검정, 상관분석 (Hypothesis test & Correlation analysis)
 8. 회귀분석 (Regression)
 9. 분류분석 (Classification)
