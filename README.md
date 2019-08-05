@@ -11,4 +11,8 @@
 10. 군집화 (Clustering)
 
 **각코드에 대한 자세한 내용: <https://wjddyd66.github.io/category/DataAnalysis>**  
+<<<<<<< HEAD
 연락처: wjddyd66@naver.com  
+=======
+연락처: wjddyd66@naver.com  
+>>>>>>> ee33f9d43f15bddabb4dfbacbb82dbd2877f921d
