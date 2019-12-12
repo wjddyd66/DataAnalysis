@@ -11,5 +11,5 @@
 10. 분류분석 (Classification)
 11. 군집화 (Clustering)
 
-**각코드에 대한 자세한 내용: <https://wjddyd66.github.io/category/DataAnalysis>**  
+**각코드에 대한 자세한 내용: <https://wjddyd66.github.io/categories/#dataanalysis>**  
 연락처: wjddyd66@naver.com
